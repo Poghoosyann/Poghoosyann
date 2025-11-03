@@ -38,7 +38,6 @@ Asynchronous 24/7 Binance market data collector using Python, Redis, and Postgre
 🌍 From **Yerevan, Armenia**  
 🚀 Currently improving skills in **Go** and backend architecture  
 💡 Always experimenting with new tech and AI automation  
-🎯 **Goal:** Build innovative systems, grow my own business, and become a millionaire by 21–23 💸  
 
 ---
 
