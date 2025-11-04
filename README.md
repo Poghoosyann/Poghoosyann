@@ -57,5 +57,5 @@ Asynchronous 24/7 Binance market data collector using Python, Redis, and Postgre
 ## 📫 Connect with Me
 
 💼 GitHub: [@Poghoosyann](https://github.com/Poghoosyann)  
-💬 Telegram: Poghoosyann  
+💬 Telegram: @Poghoosyann  
 📧 Email: emilpoghosyan50@gmail.com  
